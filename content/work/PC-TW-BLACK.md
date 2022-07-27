@@ -7,7 +7,11 @@ heroHeading: 'PC-TW-BLACK'
 heroSubHeading: 'PC-TW-BLACK.'
 heroBackground: 'work/PC-TW-BLACK.jpg'
 thumbnail: 'work/PC-TW-BLACK.jpg'
-images: ['https://source.unsplash.com/random/400x600/?nature']
+images: [
+'work/PC-TW-BLACK/Current/jpg/reduced/1.jpg',
+'work/PC-TW-BLACK/Current/jpg/reduced/2.jpg',
+'work/PC-TW-BLACK/Current/jpg/reduced/3.jpg'
+]
 ---
 
 PC-TW-WHITE
