@@ -3,16 +3,10 @@ title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
 heroHeading: 'About Us'
-heroSubHeading: "Established in 1985, we're a team of advisors that puts your business first."
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+heroSubHeading: "Established in 2020, we give advice on PC component selection, sourcing and full assembly of custom PCs."
+heroBackground: 'images/general/tw3.jpg'
 ---
 
 <div>
-{{< content-strip-left "/pages/about" "content1" >}}
-</div>
-<div>
 {{< content-strip-right "/pages/about" "content2" >}}
-</div>
-<div>
-{{< content-strip-center "/pages/about" "content3" >}}
 </div>
