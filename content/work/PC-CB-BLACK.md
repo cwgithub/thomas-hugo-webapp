@@ -50,12 +50,7 @@ images: [
 'work/PC-CB-BLACK/jpg/37.jpg',
 'work/PC-CB-BLACK/jpg/38.jpg',
 'work/PC-CB-BLACK/jpg/39.jpg',
-'work/PC-CB-BLACK/jpg/40.jpg',
-
-'work/PC-CB-BLACK/jpg/41.jpg',
-'work/PC-CB-BLACK/jpg/42.jpg',
-'work/PC-CB-BLACK/jpg/43.jpg',
-
+'work/PC-CB-BLACK/jpg/40.jpg'
 
 
 ]
