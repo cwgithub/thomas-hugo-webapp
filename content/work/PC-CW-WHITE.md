@@ -57,4 +57,16 @@ images: [
 
 ---
 
-PC-CW-WHITE
+Spec
+
+Ryzen 9 3900x CPU- 12 Core, 24 Threads
+2TB M.2 SSD Storage
+64GB DDR4 3200mhz RAM
+Asus b450-f Strix Motherboard
+GTX 1050ti Graphics Card
+Corsair 275R Airflow Case
+Corsair/NZXT  Fans
+(Not pictured) NZXT Kraken AIO (All In One liquid cooler)
+600w Corsair PSU
+
+Testimonial

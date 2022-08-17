@@ -27,4 +27,9 @@ images: [
 ]
 ---
 
-PC-TW-BLACK
+
+Spec
+
+This PC I built for personal use has been upgraded in 3 different stages to reach my growing requirements and desire for more powerful games.
+Finnished PC
+Ryzen 

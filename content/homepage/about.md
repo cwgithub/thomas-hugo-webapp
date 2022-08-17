@@ -6,4 +6,5 @@ button: 'About Us'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+We learn what you want to use the PC for and select the correct combination of hardware compoents to meet those needs.  
+
